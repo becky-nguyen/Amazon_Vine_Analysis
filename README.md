@@ -8,7 +8,7 @@ The purpose of this analysis is to analyze the Amazon reviews written by members
 ![Capture1](https://user-images.githubusercontent.com/100896787/180356196-8041c0a2-15ee-407d-88cb-85cb4942d2a5.PNG)
 * There were 94 Vine reviews and 40471 non-Vine reviews.
 
-![Capture6](https://user-images.githubusercontent.com/100896787/180906171-0ece49f1-dec1-409b-8f12-2cf29bf99e00.PNG)
+![Capture6](https://user-images.githubusercontent.com/100896787/180906646-633a6182-aa79-44ca-b2e7-1e97b97e8e6f.PNG)
 
 * There were 48 paid five star reviews.
 * There were 15663 unpaid five star reviews. 
